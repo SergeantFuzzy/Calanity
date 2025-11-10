@@ -19,13 +19,6 @@ Calanity is a modular MMORPG framework for Paper 1.21.x servers that mixes clans
 | `calanity-api` | Contracts for clans, classes, stats, events, placeholders, and addon loading. | 
 | `calanity-plugin` | Paper `JavaPlugin` that implements managers, services, abilities, commands, and integrations. |
 
-## Building
-```bash
-mvn -B -e -ntp verify
-```
-
-The resulting plugin jar (`calanity-plugin/target/calanity-plugin-*.jar`) depends on the API module at runtime. Deploy both to the `/plugins/Calanity/` directory alongside any addon jars.
-
 ## Development Notes
 - Requires Java 21+
 - Target PaperMC 1.21.8–1.21.x
