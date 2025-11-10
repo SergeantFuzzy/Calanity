@@ -1,0 +1,12 @@
+title: '<#d97706><bold>Calanity</bold></#d97706>'
+lines:
+  - '<#d1d5db><bold>%player_name%</bold></#d1d5db>'
+  - '<#b45309>Clan<#d1d5db>: <#fbbf24>%calanity_clan%</#fbbf24>'
+  - '<#b45309>Power<#d1d5db>: <#fbbf24>%calanity_power%</#fbbf24>'
+  - '<#b45309>Clan Size<#d1d5db>: <#fbbf24>%calanity_clan_members_online%</#fbbf24>/<#fbbf24>%calanity_clan_members_total%</#fbbf24>'
+  - '<#b45309>Class<#d1d5db>: <#fbbf24>%calanity_class%</#fbbf24>'
+  - '<#b45309>Ability<#d1d5db>: <#fbbf24>%calanity_active_ability%</#fbbf24>'
+  - '<#b45309>Leader<#d1d5db>: <#fbbf24>%calanity_clan_leader%</#fbbf24>'
+  - '<#b45309>Kills<#d1d5db>: <#fbbf24>%calanity_kills%</#fbbf24>'
+  - '<#b45309>Deaths<#d1d5db>: <#ef4444>%calanity_deaths%</#ef4444>'
+  - '<#b45309>Balance<#d1d5db>: <#fbbf24>%calanity_balance%</#fbbf24>'

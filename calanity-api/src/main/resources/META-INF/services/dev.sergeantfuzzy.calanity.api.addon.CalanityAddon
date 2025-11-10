@@ -1,0 +1,1 @@
+# Addon jars should include their entry class here via the ServiceLoader contract.

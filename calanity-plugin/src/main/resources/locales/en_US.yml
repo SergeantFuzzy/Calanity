@@ -1,0 +1,5 @@
+locale: en_US
+strings:
+  clan-created: 'Clan created successfully.'
+  clan-disbanded: 'Clan has been disbanded.'
+  class-changed: 'You are now a %class%.'

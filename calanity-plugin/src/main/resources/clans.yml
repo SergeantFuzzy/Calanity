@@ -1,0 +1,7 @@
+max-members: 10
+power:
+  kill: 30
+buffs:
+  default:
+    regeneration: 1
+    speed: 1

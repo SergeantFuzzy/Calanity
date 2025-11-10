@@ -1,0 +1,7 @@
+prefix: '<gold>Calanity</gold> <gray>|</gray> '
+clan:
+  created: '<green>Clan created!</green>'
+  not-found: '<red>That clan does not exist.</red>'
+ability:
+  cooldown: '<red>That ability is still cooling down.</red>'
+  blocked-region: '<yellow>Abilities are disabled in this region.</yellow>'

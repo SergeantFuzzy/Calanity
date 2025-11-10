@@ -1,0 +1,17 @@
+storage:
+  type: YAML # YAML | SQLITE | MYSQL
+mysql:
+  host: localhost
+  port: 3306
+  database: calanity
+  username: root
+  password: secret
+debug:
+  enabled: false
+clans:
+  max-members: 10
+  kill-power: 30
+classes:
+  change-cooldown-minutes: 30
+addons:
+  directory: addons

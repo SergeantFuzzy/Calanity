@@ -1,0 +1,17 @@
+name: Calanity
+main: dev.sergeantfuzzy.calanity.CalanityPlugin
+version: ${project.version}
+description: Modular MMORPG framework for clans/classes/abilities
+api-version: '1.21'
+softdepend:
+  - PlaceholderAPI
+  - WorldGuard
+  - Vault
+commands:
+  calanity:
+    description: Calanity admin/debug command
+    permission: calanity.admin
+  clan:
+    description: Clan management root command
+  class:
+    description: Class selection root command

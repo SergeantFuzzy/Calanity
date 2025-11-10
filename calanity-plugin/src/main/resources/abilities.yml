@@ -1,0 +1,9 @@
+bindings:
+  elfin:
+    group-heal:
+      slot: 7
+      cooldown: 30s
+  panzer:
+    shield:
+      slot: 8
+      cooldown: 20s

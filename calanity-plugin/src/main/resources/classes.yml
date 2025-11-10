@@ -1,0 +1,31 @@
+classes:
+  elfin:
+    display: 'Elfin'
+    stats:
+      health: 4
+      defense: 0
+      damage: 0
+    passives: []
+    abilities:
+      - elfin_revive
+      - elfin_group_heal
+  panzer:
+    display: 'Panzer'
+    stats:
+      health: 8
+      defense: 20
+      damage: 0
+    passives: []
+    abilities:
+      - panzer_shield
+  craftist:
+    display: 'Craftist'
+    stats:
+      health: 2
+      defense: 0
+      damage: 0
+    passives:
+      - craftist_double_craft
+      - craftist_item_return
+      - craftist_magical_artifacts
+    abilities: []
